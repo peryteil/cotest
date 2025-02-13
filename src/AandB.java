@@ -10,4 +10,3 @@ public class AandB {
         System.out.println("b = " + b);
     }
 }
-
